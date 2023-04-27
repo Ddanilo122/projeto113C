@@ -1,0 +1,20 @@
+body{
+background-image: linear-gradient(blue,lightblue,darkblue);
+background-size:contain;
+}
+.fm{
+color:black;
+font-weight:bold;
+}
+#camera{
+border:2px dashed black;
+width:350px;
+height:300px;
+}
+#result{
+    display:none;
+    background-color:black;
+    width:350px;
+    height:300px
+}
+
